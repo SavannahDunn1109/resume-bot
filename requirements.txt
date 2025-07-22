@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+python-docx
+PyPDF2
+Office365-REST-Python-Client
